@@ -7,8 +7,8 @@ const Header = () => {
       {/* Title and search */}
       <div className="flex flex-col md:flex-row md:justify-between md:items-center gap-4 mb-6">
         <div>
-          <h1 className="text-2xl text-gray-300">Jeager Resto</h1>
-          <p className="text-gray-500">07 octubre 2022</p>
+          <h1 className="text-2xl text-gray-300">Pizzeria La Italiana</h1>
+          <p className="text-gray-500">Pizzas a la piedra</p>
         </div>
         <form>
           <div className="w-full relative">
